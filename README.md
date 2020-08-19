@@ -11,8 +11,8 @@ You have to have NodeJS and Git installed for this to work.
 ```bash
 git clone https://github.com/samfuller01/fake-data.git
 cd fake-data
-npm install
-npm run dev
+yarn install
+yarn run dev
 ```
 
 ## Usage
