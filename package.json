@@ -16,7 +16,7 @@
     "express-graphql": "^0.11.0",
     "graphql": "^15.3.0",
     "graphql-tools": "^6.0.18",
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "random-name": "^0.1.2"
   },
   "devDependencies": {
